@@ -6,7 +6,7 @@ Two player tile-based variation of capture the flag.
 
 1. Download the associated files.
 
-2. Run 'Main.java' under 'CaptureTheFlag/Core'
+2. Run `Main.java` under `CaptureTheFlag/Core`
 
 ## Instructions:
 
